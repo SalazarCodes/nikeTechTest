@@ -15,5 +15,6 @@ mvn clean install
 
 ## Puertos y URL de la base de datos:
 
-La base de datos se puede encontrar en el puerto 9090 de localhost, y la consola en: http://localhost:9090/h2-console 
+La base de datos se puede encontrar en el puerto 9090 de localhost, y la consola en: http://localhost:9090/h2-console.
+
 En caso exista un error con el nombre de la base de datos, utilizar el siguiente nombre: jdbc:h2:mem:testdb
