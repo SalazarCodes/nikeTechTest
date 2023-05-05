@@ -1,23 +1,23 @@
 # consultaruc-front
 
-This template should help get you started developing with Vue 3 in Vite.
+Parte front del test técnico para Nike.
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Configuración para la ejecución e instalación:
+## Cambia de la carpeta raíz a la que contiene la carpeta src:
 
-## Customize configuration
+```sh
+cd consultaruc-front
+```
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+##Instala las dependencias:
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
+## Para iniciar el servidor:
+## El servidor iniciará en localhost:5173
 ```sh
 npm run dev
 ```
